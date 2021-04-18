@@ -1,4 +1,4 @@
-package org.zhss.demo.redis.hash;
+package com.zhss.demo.redis.hash;
 
 import redis.clients.jedis.Jedis;
 
